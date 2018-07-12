@@ -6,4 +6,6 @@ creat a new branch modify 3
 creat a new branch is and 2 modify
 >>>>>>> featurel
 
-switched to a new branch dev
+switched to a new branch dev 1
+new dev1  in master
+dev 2 in dev
